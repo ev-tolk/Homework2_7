@@ -1,0 +1,140 @@
+#information{
+    background-image: url('./fernBack.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#information form{
+    background-color: rgba(0, 133, 18, 0.48);
+    color: aliceblue;
+    width: 100%;
+}
+
+body{
+    font-family: 'Old Standard TT', serif;
+    font-size: 16px;
+}
+
+.text_description1{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+#information h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    text-transform: uppercase;
+    padding-top: 55px;
+    color: aquamarine;
+}
+
+#newPlantButton{
+    background-color:  rgba(0, 184, 116, 0.48);
+    border: none;
+    padding: 15px 50px;
+    text-align: center;
+    margin-left: 43%;
+    color: azure;
+    font-family: 'Old Standard TT', serif;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+#all_info{
+    background-image: url('./spruceBack.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: azure;
+}
+
+#all_info form{
+    padding-left: 70px;
+    font-size: 25px;
+    background-color:rgba(0, 112, 71, 0.48);
+    padding-right: 70px;
+}
+
+.text_discoverer, .text_needles{
+    margin-top: -175px;
+}
+
+#all_info form #mainMenu2{
+    background-color:  rgba(0, 184, 116, 0.48);
+    border: none;
+    padding: 15px 50px;
+    text-align: center;
+    color: azure;
+    font-family: 'Old Standard TT', serif;
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 30px;
+}
+
+#create_person{
+    background-image: url('./forest.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: azure;
+}
+
+#create_person input{
+    padding: 15px 70px;
+    border: none;
+    background-color: rgba(48, 110, 62, 0.596);
+    margin-bottom: 15px;
+    color: rgb(239, 255, 243);
+    font-size: 20px;
+}
+
+#create_person form{
+    padding-left: 80px;
+    background-color: rgba(50, 68, 26, 0.19);
+    padding-right: 80px;
+}
+
+#create_person span{
+    margin-right: 50px;
+    
+}
+
+#create_person form #textHeight{
+    margin-left: 62px;
+}
+
+
+#create_person form #textPlantType{
+    margin-left: 18px;
+}
+
+#create_person form #textColor{
+    margin-left: 78px;
+}
+
+#create_person form #textAge{
+    margin-left: 55px;
+}
+
+#create_person form #textName{
+    margin-left: 48px;
+}
+
+#create_person form #textDiscoverer{
+    margin-left: 23px;
+}
+
+#create_person form #textDescription{
+    margin-left: 48px;
+}
+
+#create_person form #textNeedles{
+    margin-left: 35px;
+}
+
+#create_person form #textResinRelease{
+    margin-left: -18px;
+}
